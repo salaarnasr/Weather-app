@@ -1,0 +1,35 @@
+/* styles.css */
+
+/* Styling for the Weather App */
+.root {
+    -fx-background-color: #f0f0f0; /* Background color */
+    background-color: #f0f0f0;
+    -fx-font-family: Arial, sans-serif; /* Font family */
+    font-family: Arial, sans-serif;
+}
+
+/* Styling for labels */
+.label {
+    -fx-font-size: 16px; /* Font size */
+    font-size: 16px;
+}
+
+/* Styling for text input field */
+.text-field {
+    -fx-pref-width: 200px; /* Preferred width */
+}
+
+/* Styling for the search button */
+.button {
+    -fx-background-color: #0074D9; /* Button background color */
+    background-color: #0074D9;
+    -fx-text-fill: white; /* Text color */
+}
+
+/* Styling for the result label */
+.result-label {
+    -fx-font-size: 14px; /* Font size */
+    font-size: 14px;
+    -fx-padding: 10px; /* Padding */
+    padding: 10px;
+}
